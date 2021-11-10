@@ -7,3 +7,6 @@ Basic Lab Python Programs based on Course-work
 * Area_of_Circle_Math
 * HeronsFormula
 * Earth_Distance_TwoPoints
+
+### Lab_Sheet_2
+* Even_or_Odd
