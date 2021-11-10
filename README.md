@@ -1,2 +1,2 @@
 # Python
-Python for Data Science
+Basic Lab Python Programs based on Course-work
